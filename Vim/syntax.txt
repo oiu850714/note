@@ -1,0 +1,1 @@
+要看有關 syntax 設定的東西, 在 Vim 的 Normal mode 底下打 :help syntax.txt

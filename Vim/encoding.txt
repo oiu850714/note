@@ -1,0 +1,1 @@
+要看有關文字檔編碼的詳細說明, 請在 Vim 的 Normal mode 打 :help encoding.txt
